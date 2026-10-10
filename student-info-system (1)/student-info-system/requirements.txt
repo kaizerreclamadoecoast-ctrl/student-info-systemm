@@ -1,0 +1,2 @@
+# Runtime: standard library only (Python 3.10+), nothing to install.
+# Development / testing uses the built-in `unittest` module as well.
